@@ -15,5 +15,5 @@ I performed exploratory data analysis on the dataset in order to understand the 
 
 There are two files present in the repository. 
 
-1. The file Apobank-task-report includes the jupyter notebook for the understanding on the user.
-2. The file Apobank-final consists of all the tasks in the for of functions in order to be used on the other files. All the functions are tested and run.
+1. The file Medbank-Explained includes the jupyter notebook for the understanding on the user.
+2. The file Medbank-Final consists of all the tasks in the for of functions in order to be used on the other files. All the functions are tested and run.
